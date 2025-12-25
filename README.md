@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**Hina-Hanan/Hina-Hanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Hina**, a **Data Scientist based in India**.  
+I mostly work on **AI projects** and **data visualization for businesses** using **Python, Power BI, Tableau, and Vector Databases**.
 
-Here are some ideas to get you started:
+🏆 **Base Hackathon 2025 Finalist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my **personal GitHub profile** where I upload my **projects, experiments, and things I’m currently working on**.  
+Everything you see here is **built from scratch**.
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🔹 Languages
+- Python  
+- C  
+- Rust  
+
+### 🔹 Databases
+- PostgreSQL  
+- Vector Databases (FAISS, ChromaDB)
+
+### 🔹 Python Libraries
+- Scikit-learn  
+- Pandas  
+- NumPy  
+- PyTorch  
+- TensorFlow  
+
+### 🔹 Data Visualization
+- Matplotlib  
+- Seaborn  
+- Power BI  
+- Tableau  
+
+---
+
+## 🌱 A Bit About Me
+
+- I love reading **articles and short novels**  
+- I enjoy building things that are **simple, clean, and easy to use**  
+- I genuinely love **working with data and uncovering the stories hidden inside it**
+- **Curiosity** drives me
