@@ -12,7 +12,7 @@ Everything you see here is built from scratch.
 ## 🛠️ Tools & Technologies
    -Languages - Python,C,Rust  
    -Databases - PostgreSQL,Vector Databases (FAISS, ChromaDB)
-   -Python Libraries - Scikit-learn,Pandas,NumPy,PyTorch,TensorFlow  
+    -Python Libraries - Scikit-learn,Pandas,NumPy,PyTorch,TensorFlow  
    -Data Visualization - Matplotlib,Seaborn,Power BI,Tableau 
    
 ---
