@@ -22,4 +22,4 @@ Everything you see here is built from scratch.
 - I enjoy building things that are **simple, clean, and easy to use**  
 - I genuinely love **working with data and uncovering the stories hidden inside it**
 - **Curiosity** drives me
-- - Currently exploring the **Web3 space**, focusing on blockchain, on-chain data, and decentralized applications
+- Currently exploring the **Web3 space**, focusing on blockchain, on-chain data, and decentralized applications
