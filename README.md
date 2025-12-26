@@ -3,7 +3,7 @@
 I’m **Hina**, a Data Scientist based in India.  
 I mostly work on **AI projects** and **data visualization for businesses** using Python, Power BI, Tableau, and Vector Databases.
 
-I am a Base Hackathon 2025 Finalist.
+I am a Base Hackathon 2025 National Finalist.
 
 This is my personal GitHub profile where I upload my projects, experiments, and things I’m currently working on.  
 Everything you see here is built from scratch.
